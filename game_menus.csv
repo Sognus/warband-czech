@@ -318,7 +318,7 @@ mno_continue|Pokračovat...
 menu_village_infestation_removed|V lítém boji, který budou opěvovat bardové, jsi se svými muži {vyhnal/vyhnala} bandity z vesnice, takže je v ní zase bezpečno. Vesničanům už sice skoro nic cenného nezbylo, ale nabízejí ti všechno, co se jim podařilo sebrat.
 mno_village_bandits_defeated_accept|Vzít si, co ti právem patří.
 mno_village_bandits_defeated_cont|Odmítnout a prohlásit, že to potřebují víc než ty.
-menu_center_manage|{s19}^{reg6?^^Budova, kterou právě stavíš, je {s7}. Stavba bude dokončena za {reg8} dní.}
+menu_center_manage|{s19}^{reg6?^^Budova, kterou právě stavíš, je {s7}. Stavba bude dokončena za {reg8} dní{reg9?:}.:}
 mno_center_build_manor|Postavit sídlo.
 mno_center_build_fish_pond|Postavit mlýn.
 mno_center_build_watch_tower|Postavit strážní věž.
